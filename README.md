@@ -7,6 +7,7 @@ I present all the relevant projects, posters, and reports I have done during my 
     - [Optimizing Pipeline for 3D Reconstruction of Protein Aggregates](#optimizing-pipeline-for-3d-reconstruction-of-protein-aggregates)
     - [Digital Interface for Upper Limb Amputees](#digital-interface-for-upper-limb-amputees)
 - [MSc Neuro-X](#msc-neuro-x)
+    - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences)
 - [Personal](#personal)
 
 ## BSc Biomedical Engineering
@@ -51,6 +52,8 @@ Catarina Gonçalves: catarinamarquesgoncalves@tecnico.ulisboa.pt
 ### Digital Interface for Upper Limb Amputees
 In the [Principles of Bioinstrumentation](https://fenix.tecnico.ulisboa.pt/cursos/lebiom21/disciplina-curricular/845953938490061) course, with the help of João Freitas and António Figueira, we developed an accelerometer-based digital interface for upper limb amputees. With this proof of concept, we aimed to improve the connection of these patients to the everyday computer, allowing them to sweeten their workflow and hopefully establish new ways to reconnect with the work environment.
 
+The report was originally written in Portuguese. However, a translated version can also be found [here](./BSc%20Biomedical%20Engineering/Digital%20Interface%20for%20Upper%20Limb%20Amputees.pdf).
+
 #### Contacts
 João Freitas: joao.ferreira.de.freitas@tecnico.ulisboa.pt <br>
 António Figueira: antoniofigueira7@tecnico.ulisboa.pt
@@ -62,7 +65,25 @@ António Figueira: antoniofigueira7@tecnico.ulisboa.pt
 > [Original Report File](./BSc%20Biomedical%20Engineering/Interface%20Digital%20Para%20Amputados%20Dos%20Membros%20Superiores.pdf)
 
 ## MSc Neuro-X
-Here you will find the projects and reports I completed during my Master's degree.
+In the following section, I present all the relevant work I did during my Master's in Neuro-X at EPFL in Lausanne. These include:
+- [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences)
+
+---
+### Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences
+In the [Machine Learning](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/) course, with the help of Rodrigo Anjos and Mehdi Amor, we developed a pipeline to objectively analyse the content of interviews in research settings enabling to draw new conclusions from this type of content. To do so, we implemented VADER-based analysis and BERT and Top2Vec Models analysis.
+
+#### Abstract
+Machine Learning models can also be leveraged as analytical tools, providing insights into how some set-up works. By applying these algorithms to study the valency (VADER), emotion (BERT) and topic (Top2Vec) content in interviews for Out-of-Body research done by the LNCO Lab at EPFL, we were able to validate the usefulness of our pipeline. We delved into group analysis to find differences between the experiments realised. We discovered that OBE1 and OBE2 interventions had a higher presence of surprise as the dominant emotion and joy appeared less frequently than for the control condition. When applying the intervention to OBE1 and OBE2 participants, meditation and feeling topics are more common, while for Compassion experiments, meditation and feeling are more frequent in control than in intervention. By applying an individual analysis, we verified the presence of interviewer bias and found that it affects the participant's response. Surprisingly, it is also influenced by the participant's interactions, proving a bidirectional trade of sway.
+
+#### Aknowedgments
+This project was developed in collaboration with LNCO Lab in the ML4Science and could not have been completed without the help of:
+
+Dr. Bruno Herbelin: bruno.herbelin@epfl.ch <br>
+David Friou: david.friou@epfl.ch
+
+#### Links and Extras
+> Project Grade: B<br>
+> [Project Report File](./MSc%20Neuro-X/Using%20Machine%20Learning%20Algorithms%20to%20Analyse%20Interview%20Content%20of%20Out-of-Body%20Experiences.pdf) 
 
 ## Personal
 Here you will find the projects and reports I completed in my personal time.

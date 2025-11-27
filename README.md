@@ -7,7 +7,7 @@ I present all the relevant projects, posters, and reports I have done during my 
     - [Optimizing Pipeline for 3D Reconstruction of Protein Aggregates](#optimizing-pipeline-for-3d-reconstruction-of-protein-aggregates)
     - [Digital Interface for Upper Limb Amputees](#digital-interface-for-upper-limb-amputees)
 - [MSc Neuro-X](#msc-neuro-x)
-    - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences
+    - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences)
     - [A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease](#a-stereotaxic-brain-atlas-for-a-novel-mouse-model-of-parkinsons-disease)
     - [Arm Stump 3D Scanning](#arm-stump-3d-scanning)
 - [Personal](#personal)

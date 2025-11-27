@@ -7,7 +7,9 @@ I present all the relevant projects, posters, and reports I have done during my 
     - [Optimizing Pipeline for 3D Reconstruction of Protein Aggregates](#optimizing-pipeline-for-3d-reconstruction-of-protein-aggregates)
     - [Digital Interface for Upper Limb Amputees](#digital-interface-for-upper-limb-amputees)
 - [MSc Neuro-X](#msc-neuro-x)
-    - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences)
+    - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences
+    - [A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease](#a-stereotaxic-brain-atlas-for-a-novel-mouse-model-of-parkinsons-disease)
+    - [Arm Stump 3D Scanning](#arm-stump-3d-scanning)
 - [Personal](#personal)
 
 ## BSc Biomedical Engineering
@@ -66,7 +68,9 @@ António Figueira: antoniofigueira7@tecnico.ulisboa.pt
 ## MSc Neuro-X
 In the following section, I present all the relevant work I did during my Master's in Neuro-X at EPFL in Lausanne. These include:
 - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences)
-
+- [A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease](#a-stereotaxic-brain-atlas-for-a-novel-mouse-model-of-parkinsons-disease)
+- [Arm Stump 3D Scanning](#arm-stump-3d-scanning)
+  
 ---
 ### Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences
 In the [Machine Learning](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/) course, with the help of Rodrigo Anjos and Mehdi Amor, we developed a pipeline to objectively analyse the content of interviews in research settings enabling to draw new conclusions from this type of content. To do so, we implemented VADER-based analysis and BERT and Top2Vec Models analysis.
@@ -82,6 +86,29 @@ David Friou: david.friou@epfl.ch
 #### Links and Extras
 > Project Grade: B<br>
 > [Project Report File](./MSc%20Neuro-X/Using%20Machine%20Learning%20Algorithms%20to%20Analyse%20Interview%20Content%20of%20Out-of-Body%20Experiences.pdf) 
+
+---
+### A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease
+For my first semester project, I joined [NeuroRestore](https://www.neurorestore.swiss/) to build a stereotaxic atlas for a new mouse model of Parkinson's disease. In this project I used 11 mice's MRIs, μCTs, and segmentations to obtain precise brain region coordinates to aid in stereotaxic surgery. The pipeline is fully automatic and provides a quick and effective tool to build more specific brain atlases. The results can all be quickly accessed through the website I also built [here.](https://neuroframe.ch/)
+
+#### Abstract
+<div style="text-align: justify"> Waiting for Submission </div>
+
+#### Aknowedgments
+This project was developed at .NeuroRestore and supervised by Dr. Antoine Philippides (antoine.philippides@epfl.ch)
+
+#### Links and Extras
+> Project Grade: 6/6<br>
+> [Website](https://neuroframe.ch/)
+> [Public Project](https://github.com/NR-NeuroFrame)
+
+---
+### Arm Stump 3D Scanning
+For my third semester at EPFL, I joined the MAKE Project N-Pulse, where I am the team leader of haptics and scanning. Here, I developed a 3D scanning protocol for accurate reconstruction of the stump of the amputee to best improve prosthesis comfort. In this project I applied what I had learned during the Computer Vision course, like projection coordinates and convex hull extraction. The project included both algorithm construction and structure construction.
+
+#### Links and Extras
+> [Public Project](https://github.com/N-Pulse/ARM-SOFT-Scanning)
+---
 
 ## Personal
 Here you will find the projects and reports I completed in my personal time.

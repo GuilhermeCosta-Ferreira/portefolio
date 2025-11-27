@@ -12,6 +12,7 @@ I present all the relevant projects, posters, and reports I have done during my 
     - [Arm Stump 3D Scanning](#arm-stump-3d-scanning)
 - [Personal](#personal)
 
+<br><br><br><br><br>
 ## BSc Biomedical Engineering
 In the following section, I present all the relevant work I did during my Bachelor's in Biomedical Engineering at the Instituto Superior Técnico in Lisbon. These include:
 - [PIC Project: Analysis and Correlation of Brain Motor Information in the Context of BMIs](#pic-project-analysis-and-correlation-of-brain-motor-information-in-the-context-of-bmis)
@@ -65,6 +66,7 @@ António Figueira: antoniofigueira7@tecnico.ulisboa.pt
 > [Translated Report File](./BSc%20Biomedical%20Engineering/Digital%20Interface%20for%20Upper%20Limb%20Amputees.pdf) <br>
 > [Original Report File](./BSc%20Biomedical%20Engineering/Interface%20Digital%20Para%20Amputados%20Dos%20Membros%20Superiores.pdf)
 
+<br><br><br><br><br>
 ## MSc Neuro-X
 In the following section, I present all the relevant work I did during my Master's in Neuro-X at EPFL in Lausanne. These include:
 - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences)

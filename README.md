@@ -99,7 +99,7 @@ This project was developed at .NeuroRestore and supervised by Dr. Antoine Philip
 
 #### Links and Extras
 > Project Grade: 6/6<br>
-> [Website](https://neuroframe.ch/)
+> [Website](https://neuroframe.ch/)<br>
 > [Public Project](https://github.com/NR-NeuroFrame)
 
 ---

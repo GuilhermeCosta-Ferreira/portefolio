@@ -8,9 +8,10 @@ I present all the relevant projects, posters, and reports I have done during my 
     - [Digital Interface for Upper Limb Amputees](#digital-interface-for-upper-limb-amputees)
 - [MSc Neuro-X](#msc-neuro-x)
     - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences)
-    - [A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease](#a-stereotaxic-brain-atlas-for-a-novel-mouse-model-of-parkinsons-disease)
+    - [NeuroFrame: A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease](#neuroframe-a-stereotaxic-brain-atlas-for-a-novel-mouse-model-of-parkinsons-disease)
     - [Arm Stump 3D Scanning](#arm-stump-3d-scanning)
 - [Personal](#personal)
+    - [AgoraSim: Society Simulator](#agorasim-society-simulator)
 
 <br><br><br><br><br>
 ## BSc Biomedical Engineering
@@ -70,7 +71,7 @@ António Figueira: antoniofigueira7@tecnico.ulisboa.pt
 ## MSc Neuro-X
 In the following section, I present all the relevant work I did during my Master's in Neuro-X at EPFL in Lausanne. These include:
 - [Using Machine Learning Algorithms to Analyse Interview Content of Out-of-Body Experiences](#using-machine-learning-algorithms-to-analyse-interview-content-of-out-of-body-experiences)
-- [A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease](#a-stereotaxic-brain-atlas-for-a-novel-mouse-model-of-parkinsons-disease)
+- [NeuroFrame: A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease](#neuroframe-a-stereotaxic-brain-atlas-for-a-novel-mouse-model-of-parkinsons-disease)
 - [Arm Stump 3D Scanning](#arm-stump-3d-scanning)
   
 ---
@@ -90,7 +91,7 @@ David Friou: david.friou@epfl.ch
 > [Project Report File](./MSc%20Neuro-X/Using%20Machine%20Learning%20Algorithms%20to%20Analyse%20Interview%20Content%20of%20Out-of-Body%20Experiences.pdf) 
 
 ---
-### A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease
+### NeuroFrame: A Stereotaxic Brain Atlas for a Novel Mouse Model of Parkinson’s Disease
 For my first semester project, I joined [NeuroRestore](https://www.neurorestore.swiss/) to build a stereotaxic atlas for a new mouse model of Parkinson's disease. In this project I used 11 mice's MRIs, μCTs, and segmentations to obtain precise brain region coordinates to aid in stereotaxic surgery. The pipeline is fully automatic and provides a quick and effective tool to build more specific brain atlases. The results can all be quickly accessed through the website I also built [here.](https://neuroframe.ch/)
 
 #### Abstract
@@ -112,5 +113,18 @@ For my third semester at EPFL, I joined the MAKE Project N-Pulse, where I am the
 > [Public Project](https://github.com/N-Pulse/ARM-SOFT-Scanning)
 ---
 
+<br><br><br><br><br>
 ## Personal
 Here you will find the projects and reports I completed in my personal time.
+- [AgoraSim: Society Simulator](#agorasim-society-simulator)
+
+---
+### AgoraSim: Society Simulator
+**AgoraSim**, inspired by the Greek Agora, the public space for democratic discussion, and Simulation, is an open-source platform with two core goals:
+- 🤖 Develop simulation tools
+- 🇵🇹 Generate concrete, evidence-based solutions for the Portuguese context
+
+With this side project I aim to learn how to build simulating software with Python and, at the same time, shed some light on the feasibility and impact of some public policies. Due to the nature of the project, the first objective is to have just a basic and functional simulation and build from the ground up in complexity. Once it reaches a good level of complexity, it would be interesting to study how it predicts the Portuguese economic metrics, institutional dynamics, and policy impacts.
+
+#### Links and Extras
+> [Public Project](https://github.com/Agora-Sim)

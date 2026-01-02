@@ -143,8 +143,6 @@ For my third semester at EPFL, I joined the MAKE Project N-Pulse, where I am the
 
 > [Public Project](https://github.com/N-Pulse/ARM-SOFT-Scanning)
 
----
-
 <br><br><br><br><br>
 
 ![Alt text](Figures/personal_banner.png)

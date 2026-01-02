@@ -16,6 +16,7 @@ I present all the relevant projects, posters, and reports I have done during my 
   - [Arm Stump 3D Scanning](#arm-stump-3d-scanning)
 - [Personal](#personal)
   - [AgoraSim: Society Simulator](#agorasim-society-simulator)
+  - [NatureGenius: Paper Fetcher for Slack](#naturegenius-paper-fetcher-for-slack)
 
 <br><br><br><br><br>
 
@@ -152,6 +153,7 @@ For my third semester at EPFL, I joined the MAKE Project N-Pulse, where I am the
 Here you will find the projects and reports I completed in my personal time.
 
 - [AgoraSim: Society Simulator](#agorasim-society-simulator)
+- [NatureGenius: Paper Fetcher for Slack](#naturegenius-paper-fetcher-for-slack)
 
 ---
 
@@ -167,3 +169,15 @@ With this side project I aim to learn how to build simulating software with Pyth
 #### Links and Extras
 
 > [Public Project](https://github.com/Agora-Sim)
+
+---
+
+### NatureGenius: Paper Fetcher for Slack
+
+**NatureGenius** is a tool that enables the user to keep themselves updated on the most recent scientific updates on their desired topic. Each day, it shows the new papers that were published in _Nature Journal_ on the preferred topic. 
+
+I have been developing this tool in the Slack context so that I can keep myself up-to-date on the most profound scientific topics. It made me delve more into API integration. In this project I connected to the Gemini API, Springer API, and Slack API.
+
+#### Links and Extras
+
+> [Public Repository](https://github.com/GuilhermeCosta-Ferreira/NatureGenius)
